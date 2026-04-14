@@ -1,0 +1,15 @@
+{
+  "buildings": [
+    {
+      "data": 1000001,
+      "lvl": 999,
+      "x": 10,
+      "y": 19
+    }
+  ],
+  "respawnVars": {
+    "secondsFromLastRespawn": 1000,
+    "respawnSeed": 1529463799,
+    "obstacleClearCounter": 1000
+  }
+}

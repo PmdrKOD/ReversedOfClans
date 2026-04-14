@@ -1,0 +1,14 @@
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\bin\Debug\net8.0\ReversedOfClans.exe
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\bin\Debug\net8.0\ReversedOfClans.deps.json
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\bin\Debug\net8.0\ReversedOfClans.runtimeconfig.json
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\bin\Debug\net8.0\ReversedOfClans.dll
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\bin\Debug\net8.0\ReversedOfClans.pdb
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.AssemblyInfoInputs.cache
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.AssemblyInfo.cs
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.csproj.CoreCompileInputs.cache
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.dll
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\refint\ReversedOfClans.dll
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.pdb
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ReversedOfClans.genruntimeconfig.cache
+c:\Users\PmdrK\Downloads\ClashJdk-main\ClashJdk-main\ReversedOfClans\obj\Debug\net8.0\ref\ReversedOfClans.dll
