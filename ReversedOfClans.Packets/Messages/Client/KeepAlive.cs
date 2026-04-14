@@ -15,7 +15,7 @@ namespace ReversedOfClans.Packets.Messages.Client
 
         public override void Decode()
         {
-            // Decode logic can be added here
+           
         }
 
         public override void Process()
