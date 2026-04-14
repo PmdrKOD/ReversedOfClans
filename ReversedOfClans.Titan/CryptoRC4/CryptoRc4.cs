@@ -21,7 +21,7 @@ namespace ReversedOfClans.CryptoRC4
                 rc4Stream = RC4.Create();
                 rc4Stream.Key = fullKey;
                 encryptor1 = rc4Stream.CreateEncryptor();
-                // Пропускаем fullKey через шифр (как в Java update)
+       
                 encryptor1.TransformFinalBlock(fullKey, 0, fullKey.Length);
 
                 rc4Stream2 = RC4.Create();
@@ -54,7 +54,7 @@ namespace ReversedOfClans.CryptoRC4
         }
     }
 
-    // Простая реализация RC4, так как в .NET нет встроенной
+
     public sealed class RC4 : SymmetricAlgorithm
     {
         public RC4()
@@ -113,7 +113,7 @@ namespace ReversedOfClans.CryptoRC4
             i = 0;
             j = 0;
 
-            // KSA (Key Scheduling Algorithm)
+      
             for (int x = 0; x < 256; x++)
             {
                 s[x] = (byte)x;
